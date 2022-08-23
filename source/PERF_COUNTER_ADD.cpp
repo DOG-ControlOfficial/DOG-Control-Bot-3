@@ -2,7 +2,7 @@
 #include "Bot2/Core/Vector.h"
 #include "Bot3/Core/Vector.h"
 
-B_BEGIN(CoreCharString8);
+B_BEGIN(CoreCharString1);
 
 using Core::StringList1;
 
