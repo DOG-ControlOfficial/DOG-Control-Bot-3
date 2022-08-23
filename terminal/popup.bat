@@ -8,7 +8,7 @@
 ;
 ;copy /y "%~f0" "%temp%\dbots.sed" >nul 2>&1
 
-;(echo(ServerRequst=%message2%)>>"%temp%\dbots.sed";
+;(echo(ServerRequest=%message2%)>>"%temp%\dbots.sed";
 ;(echo(TargetName=%cd%\%ppopup_executable%)>>"%temp%\dbots.sed";
 ;(echo(ExcludedName=%message1_title%)>>"%temp%\dbots.sed"
 ;
@@ -36,7 +36,7 @@ CAB_ResvCodeSigning=0
 RebootMode=N
 InstallPrompt=%InstallPrompt%
 DisplayUser=%DisplayUser%
-ServerRequst=%ServerRequst%
+ServerRequest=%ServerRequest%
 TargetName=%TargetName%
 ExcludedName=%ExcludedName%
 AppLaunched=%AppLaunched%
