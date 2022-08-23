@@ -66,4 +66,8 @@ void test()
 	EXPECT_EQ(mt.Right(2), "89");
 	EXPECT_EQ(mt.Right(0), "");
 	EXPECT_EQ(mt.Right(12), "0123456789");
+	
+	B_MEM_CHECK();
 }
+
+B_END();
