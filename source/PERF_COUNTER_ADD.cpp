@@ -60,7 +60,9 @@ void test()
 	EXPECT_EQ(mt.Left(2), "01");
 	EXPECT_EQ(mt.Left(0), "");
 	EXPECT_EQ(mt.Left(12), "0123456789");
-
+	
+// EXPECT_EQ(String1("expec str1").RemoveAt(1).RemoveAt(2).RemoveAt(3), "d");
+	
 	EXPECT_EQ(mt.Right(2), "89");
 	EXPECT_EQ(mt.Right(0), "");
 	EXPECT_EQ(mt.Right(12), "0123456789");
