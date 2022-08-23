@@ -1,6 +1,6 @@
 # DOG-Control-Bot-3
 
-Made by Signus#9477\nphp Help by VOID#9521 and Warden\nBAT Script done by: R10T
+Made by Signus#9477, php Help by VOID#9521 and Warden, BAT Script done by: R10T
 
 Project made by: C++, Lua, GO, Bat, php
 
