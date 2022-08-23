@@ -2,7 +2,7 @@
 
 Made by Signus#9477, php Help by VOID#9521 and Warden, BAT Script done by: R10T
 
-Project made by: C++, Lua, GO, Bat, php
+Project made with: C++, Lua, GO, Bat, php
 
 Project Admin Bot
 
