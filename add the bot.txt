@@ -1,0 +1,37 @@
+#Adding the cookie
+
+In the cookie array, add the cookie's value as a string.
+
+https://cdn.discordapp.com/attachments/883660149007454210/1074261319643050004/image.png
+
+To format muitple cookies, I have list an example below.
+
+``config = {
+    "Cookies": [
+        "Cookie1",
+        "Cookie2",
+        "Cookie3"
+    ]
+}``
+
+The last line should not incude a comma (,) at the end of the line otherwise it will result in a syntax error
+
+After this change the Bot variable to the amount of bots you want! (The max amount is how many cookies you provided)
+
+#Adding the bot controler
+
+Locate your exploits autoexec folder and drag n drop AsgardianAegis.lua into it.
+
+https://cdn.discordapp.com/attachments/883660149007454210/1074262849708380171/image.png
+
+#Botting PL
+
+Once you have compleated the steps above, copy your Roblox's username (NOT DISPLAY NAME) to be added to the 
+permission list in AsgardianAegis.lua. Once copyied paste it into the table and save the file.
+
+https://cdn.discordapp.com/attachments/883660149007454210/1074266030332989450/image.png
+
+Open your exploit and MuitRBX, join the game. Once in the game execute a script like
+Infinite Yield and copy the game's Jobid and paste it into the python script and reduce it to the image shown below on line 3.
+
+https://cdn.discordapp.com/attachments/883660149007454210/1074271971900145674/Screenshot_2023-02-12_111246.png
