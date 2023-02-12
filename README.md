@@ -14,8 +14,5 @@ Honored Bri'ish citizen: ryan
 
 And a huge shoutout for the car clip: GFX
 
-Switched the project to github instead (why tf not?)
-Had to obfuscate due to people like Kin, Ice, Hack, Dis and other skids that will try taking the source and claim its theirs
-
 Copyright © 2022 D-C
 All rights reserved
