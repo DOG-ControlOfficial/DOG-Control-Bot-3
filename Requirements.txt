@@ -1,0 +1,6 @@
+C++19 >
+Python Packages: time, requests, pathlib, urllib.parse, os, threading
+A Roblox exploit that supports Autoexec (Synapse: Paid or Krnl: Free)
+Edit this cookie
+Muitiple rbx
+A python IDE, (Pycharm)
